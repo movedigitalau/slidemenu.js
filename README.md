@@ -29,9 +29,9 @@ Syntax highlighted code block
 ```
 
 
-### Jekyll Themes
+### Documentation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/movedigitalau/slidemenu.js/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+View the full documentation [here](https://movedigitalau.github.io/slidemenu.js/)
 
 
 
